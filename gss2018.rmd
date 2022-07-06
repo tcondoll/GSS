@@ -131,7 +131,7 @@ plot(TukeyHSD(model1),las=2)
 ```
 
 The degrees that do not touch 0 include LT Hig school-Graduate adn High school-graduate.
-
+ 
 # Discussion and Conclusion
 
 Because there is such a large difference between variables, we reject the null hypothesis.
