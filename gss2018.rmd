@@ -1,6 +1,6 @@
 ---
 title: "General Social Survey"
-author: "Taelynn Condoll"
+author: "Taelynn Condoll "
 date: "Summer 2022"
 output: 
   html_document:
