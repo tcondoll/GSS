@@ -61,7 +61,7 @@ $H_A$: Alternative hypothesis: There is a difference between years of education 
 
 ## Methods
 
-
+The variables are Numerical(education) and Categorical(vote). Therefor we use NUM~CAT analysis. 
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
